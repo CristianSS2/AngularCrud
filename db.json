@@ -1,0 +1,104 @@
+{
+  "productList": [
+    {
+      "productname": "JBL Flip 6",
+      "category": "Bocinas",
+      "freshness": "Nuevo",
+      "price": 700000,
+      "comment": "jbl chart 5 sound",
+      "date": "2022-11-16T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productname": "Iphone x",
+      "category": "Telefonos",
+      "freshness": "Segunda Mano",
+      "price": 1000000,
+      "comment": "Casi como nuevo",
+      "date": "2022-11-08T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productname": "AirPods",
+      "category": "Audifonos",
+      "freshness": "Reparado",
+      "price": 100000,
+      "comment": "Reparado el auricular izquierdo",
+      "date": "2022-11-10T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productname": "JBL",
+      "category": "Bocinas",
+      "freshness": "Nuevo",
+      "price": 500000,
+      "comment": "jbl chart 4 sound",
+      "date": "2022-11-07T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productname": "galaxy",
+      "category": "Telefonos",
+      "freshness": "Segunda Mano",
+      "price": 1500000,
+      "comment": "6 meses de comprado, como nuevo",
+      "date": "2022-11-17T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productname": "Huawei",
+      "category": "Bocinas",
+      "freshness": "Nuevo",
+      "price": 740000,
+      "comment": "bafle sound ",
+      "date": "2022-11-04T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productname": "JBL QUANTUM300",
+      "category": "Audifonos",
+      "freshness": "Segunda Mano",
+      "price": 259000,
+      "comment": "1 mes de comprados",
+      "date": "2022-11-10T05:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productname": "Esenses EB-TWS-30",
+      "category": "Audifonos",
+      "freshness": "Reparado",
+      "price": 20000,
+      "comment": "Se reparo el audífono izquierdo ",
+      "date": "2022-11-18T05:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productname": "Moto G22 128GB",
+      "category": "Telefonos",
+      "freshness": "Nuevo",
+      "price": 668999,
+      "comment": "Nuevo",
+      "date": "2022-11-21T05:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productname": "Xiaomi Poco M3 PRO",
+      "category": "Telefonos",
+      "freshness": "Nuevo",
+      "price": 729899,
+      "comment": "Nuevo",
+      "date": "2022-11-23T05:00:00.000Z",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
